@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02ad614f.chunk.css",
+    "main.js": "/static/js/main.71089ebb.chunk.js",
+    "main.js.map": "/static/js/main.71089ebb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53f30350.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53f30350.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.09827ebc.chunk.js": "/static/js/2.09827ebc.chunk.js",
+    "static/js/2.09827ebc.chunk.js.map": "/static/js/2.09827ebc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.02ad614f.chunk.css.map": "/static/css/main.02ad614f.chunk.css.map",
+    "static/js/2.09827ebc.chunk.js.LICENSE.txt": "/static/js/2.09827ebc.chunk.js.LICENSE.txt",
+    "static/media/GordonResume.4c9619e8.pdf": "/static/media/GordonResume.4c9619e8.pdf",
+    "static/media/README_Generator1.e9faefe3.png": "/static/media/README_Generator1.e9faefe3.png",
+    "static/media/movie_night_img.8415015d.png": "/static/media/movie_night_img.8415015d.png",
+    "static/media/password2.84aad83b.png": "/static/media/password2.84aad83b.png",
+    "static/media/scheduler2.762e125e.png": "/static/media/scheduler2.762e125e.png",
+    "static/media/team_manage_sys.b0e5f129.png": "/static/media/team_manage_sys.b0e5f129.png",
+    "static/media/weather_app3.14a1d3bf.png": "/static/media/weather_app3.14a1d3bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53f30350.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.09827ebc.chunk.js",
+    "static/css/main.02ad614f.chunk.css",
+    "static/js/main.71089ebb.chunk.js"
+  ]
+}
